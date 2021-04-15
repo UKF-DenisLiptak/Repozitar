@@ -1,1 +1,3 @@
 Vývoj 3D počítačovej hry s využitím enginu
+"anotácia záverečnej práce"
+Rok obhajoby: 2022
